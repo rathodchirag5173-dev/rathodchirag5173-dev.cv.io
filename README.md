@@ -9,7 +9,7 @@ Chirag Rathod
  LinkedIn: www.linkedin.com/in/chirag-rathod-b5b545376
  
 ---
-Career Objective
+#Career Objective
 
 Seeking an internship in the Chemical Engineering field to gain practical 
 industrial experience, enhance technical knowledge, and contribute effectively 
@@ -17,7 +17,7 @@ while learning from industry professionals
 
 
 ---
-Education
+#Education
 Qualification Institute Performances 
 
 Diploma in Chemical Engineering Chemical Process Industries
@@ -30,7 +30,7 @@ MS Word
 Internet Research
 
 ---
-Soft Skills
+#Soft Skills
 
 Communication Skills
 
@@ -43,7 +43,7 @@ Quick Learning Ability
 Time Management
 
 ---
-Languages Known
+#Languages Known
 
 Gujarati
 
@@ -54,5 +54,6 @@ English
 SSC (10th Standard) Gujarat Board 78%
 
 ---
-Technical Skills
+#Technical Skills
+
 Basic Chemical Engineering Concepts
